@@ -1,16 +1,16 @@
 # Preppin' Data Challenges
 - [2023: Week 1 - The Data Source Bank](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK01.sql)
 - [2023: Week 2 - International Bank Account Numbers](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK02.sql)
-- [2023: Week 3 - Targets for DSB]
+- [2023: Week 3 - Targets for DSB](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK03.sql)
 - [2023: Week 4 - New Customers](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK04.sql)
 - [2023: Week 5 - DSB Ranking](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK05.sql)
 - [2023: Week 6 - DSB Customer Ratings](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK06.sql)
 - [2023: Week 7 - Flagging Fraudulent Suspicions](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK07.sql)
 - [2023: Week 8 - Taking Stock](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK08.sql)
 - [2023: Week 9 - Customer Bank Statements](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK09.sql)
-- [2023: Week 10 - What's my balance on this day?]
+- [2023: Week 10 - What's my balance on this day?](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK10.sql)
 - [2023: Week 11 - Which customers are closest?](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK11.sql)
 - [2023: Week 12 - Regulatory Reporting Alignment]
-- [2023: Week 13 - Rolling Stock Price Trends]
+- [2023: Week 13 - Rolling Stock Price Trends](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK13.sql)
 - [2023: Week 15 - Easter Dates](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK15.sql)
 - [2023: Week 16 - Easter and Full Moons](https://github.com/meganleeharrington/preppin-data/blob/main/Challenges/2023-WK16.sql)
