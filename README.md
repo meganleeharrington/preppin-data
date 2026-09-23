@@ -1,1 +1,14 @@
-# preppin-data
+# Preppin' Data Challenges
+-2023: Week 1 - The Data Source Bank
+-2023: Week 2 - International Bank Account Numbers
+-2023: Week 3 - Targets for DSB
+-2023: Week 4 - New Customers
+-2023: Week 5 - DSB Ranking
+-2023: Week 6 - DSB Customer Ratings
+-2023: Week 7 - Flagging Fraudulent Suspicions
+-2023: Week 8 - Taking Stock
+-2023: Week 9 - Customer Bank Statements
+-2023: Week 10 - What's my balance on this day?
+-2023: Week 11 - Which customers are closest?
+-2023: Week 12 - Regulatory Reporting Alignment
+-2023: Week 13 - Rolling Stock Price Trends
